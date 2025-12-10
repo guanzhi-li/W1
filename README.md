@@ -1,0 +1,2 @@
+这是一个基于dexforce机器人的项目，设计界面的目的也是为了简化机器人在二次开发的过程中的操作难度，目前的初版代码能实现的功能已经在代码的简介中
+大家可以通过qt designer的方式去修改ui后替换moudles-ui_mian_new.py，或者直接修改moudles-ui_mian_new.py文件去更新代码
